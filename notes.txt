@@ -1,0 +1,22 @@
+NODEJS 
+
+Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting.
+
+1. GLOBALS  : anywhere in the application we can access this.
+
+__dirname - path to current directory
+__filename - file name
+require - function to use modules 
+module - info about current module or file
+process - info about environment where the program is being executed
+
+
+2. MODULES : info about current module or file
+
+3. BUILT IN MODULES INTRO
+*OS
+*path
+*FS   -  readFileSync, wrieFileSync
+*HTTP
+
+4.NPM (Node Package Manager): Enables us to reuse our own code, use code developed by others, share our own soln
